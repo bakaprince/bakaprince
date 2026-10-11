@@ -66,7 +66,6 @@ A text-classification project focused on identifying spam messages using machine
 </tr>
 <tr>
 <td width="50%" valign="top">
----
 
 ## 📊 GitHub Analytics
 

@@ -1,18 +1,20 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&amp;height=190&amp;text=Sudeep%20Kushwaha&amp;fontSize=46&amp;fontColor=EAE6FF&amp;fontAlignY=36&amp;desc=B.Tech%20CSE%20%7C%20AI%20%26%20ML%20%7C%20Builder%20in%20Progress&amp;descAlignY=62&amp;descSize=16&amp;color=0%3A101020%2C50%3A29204A%2C100%3A493A78"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=190&amp;text=Sudeep%20Kushwaha&amp;fontSize=46&amp;fontColor=EAE6FF&amp;fontAlignY=36&amp;desc=B.Tech%20CSE%20%7C%20AI%20%26%20ML%20%7C%20Builder%20in%20Progress&amp;descAlignY=62&amp;descSize=16&amp;color=0%3A101020%2C50%3A29204A%2C100%3A493A78" />
 
 <br/>
 
-<a href="https://github.com/bakaprince"><img src="https://img.shields.io/badge/GitHub-bakaprince-29204A?style=for-the-badge&logo=github&logoColor=EAE6FF" /></a>
-<a href="https://github.com/bakaprince?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-493A78?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/bakaprince">
+<img src="https://img.shields.io/badge/GitHub-bakaprince-29204A?style=for-the-badge&amp;logo=github&amp;logoColor=EAE6FF" />
+</a>
+
+<a href="https://github.com/bakaprince?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-493A78?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bakaprince&style=flat-square&color=493A78&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=bakaprince&amp;style=flat-square&amp;color=493A78&amp;label=PROFILE+VIEWS" />
 
 </div>
 

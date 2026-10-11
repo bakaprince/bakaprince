@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&text=Sudeep%20Kushwaha&fontSize=46&fontColor=EAE6FF&fontAlignY=36&desc=B.Tech%20CSE%20%7C%20AI%20%26%20ML%20%7C%20Builder%20in%20Progress&descAlignY=62&descSize=16&color=0:101020,50:29204A,100:493A78" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=190&amp;text=Sudeep%20Kushwaha&amp;fontSize=46&amp;fontColor=EAE6FF&amp;fontAlignY=36&amp;desc=B.Tech%20CSE%20%7C%20AI%20%26%20ML%20%7C%20Builder%20in%20Progress&amp;descAlignY=62&amp;descSize=16&amp;color=0%3A101020%2C50%3A29204A%2C100%3A493A78"
+/>
 
 <br/>
 

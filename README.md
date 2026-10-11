@@ -66,23 +66,6 @@ A text-classification project focused on identifying spam messages using machine
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🌐 AI Website Analyzer
-
-A project exploring how AI can help analyze websites and turn page content into useful insights.
-
-- AI-assisted analysis
-- Web technologies and API integration
-- Practical experimentation
-
-<a href="https://github.com/bakaprince?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-29204A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📊 GitHub Analytics

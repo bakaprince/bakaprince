@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/profile-hero.png" height="390" alt="Sudeep Kushwaha Technical Workspace" style="border-radius: 8px; border: 1px solid #30363D;" />
+  <img src="assets/ascii-portrait.gif" height="390" alt="ASCII Technical Portrait" />
   &nbsp;&nbsp;
   <img src="assets/animated-terminal-card.svg" height="390" alt="Sudeep Kushwaha Terminal Profile" />
 </p>

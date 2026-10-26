@@ -1,82 +1,54 @@
-<!-- ========================================== -->
-<!-- HERO SECTION: TERMINAL CONSOLE & BRANDING -->
-<!-- ========================================== -->
-
 <div align="center">
 
-<img src="./assets/profile-hero.png" alt="Sudeep Kushwaha // Terminal Workspace" width="100%" style="border-radius: 8px; border: 1px solid #30363D;" />
+<img src="./assets/profile-hero.png" alt="Sudeep Kushwaha // Terminal Workspace" width="100%" style="border-radius: 6px; border: 1px solid #30363D;" />
 
 <br/><br/>
 
-<h1>Hey, I'm <span style="color: #22D3EE;">Sudeep Kushwaha</span> 👋</h1>
+# Hey, I'm <span style="color: #22D3EE;">Sudeep Kushwaha</span> 👋
 
-<p align="center">
-  <code><b>bakaprince@github:~$ whoami</b></code><br/>
-  <span>B.Tech Computer Science (AI & ML) • Second Year @ <b>VIT Bhopal University</b></span>
-</p>
+`bakaprince@github:~$ whoami`
 
-<p align="center">
-  <b>A student engineer learning by building useful software.</b><br/>
-  <i>Focusing on applied machine learning, practical Android apps, robust databases, and algorithmic problem solving.</i>
-</p>
+**B.Tech Computer Science (AI & ML) • Second Year @ VIT Bhopal University**  
+*A student engineer learning by building useful software — focusing on applied machine learning, practical Android apps, and robust systems.*
 
-<p align="center">
-  <a href="https://github.com/bakaprince?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=161B22" alt="Repositories" />
-  </a>
-  <a href="https://github.com/bakaprince/leetcode-grind">
-    <img src="https://img.shields.io/badge/DSA-LeetCode_Grind-0D1117?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161B22" alt="LeetCode Practice" />
-  </a>
-  <a href="#-connect-with-me">
-    <img src="https://img.shields.io/badge/Get_In_Touch-Connect-0D1117?style=for-the-badge&logo=minutemailer&logoColor=14B8A6&labelColor=161B22" alt="Connect" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/bakaprince?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=161B22" alt="Repositories" />
+</a>
+<a href="https://github.com/bakaprince/leetcode-grind">
+  <img src="https://img.shields.io/badge/DSA-LeetCode_Grind-0D1117?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=161B22" alt="LeetCode Practice" />
+</a>
+<a href="mailto:bakaprince@users.noreply.github.com">
+  <img src="https://img.shields.io/badge/Contact-Get_In_Touch-0D1117?style=for-the-badge&logo=minutemailer&logoColor=14B8A6&labelColor=161B22" alt="Connect" />
+</a>
 
 </div>
 
 <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
-<!-- ========================================== -->
-<!-- ABOUT ME & DEVELOPER SNAPSHOT              -->
-<!-- ========================================== -->
+## ⚡ About Me & Engineering Focus
 
-## ⚡ `system.profile.overview`
+> *"Learn consistently. Build things that work. Improve what you ship."*
 
-```bash
-[system@host:~$] cat << 'EOF' > developer_manifesto.json
-{
-  "engineer": "Sudeep Kushwaha",
-  "status": "Undergraduate Student (2nd Year)",
-  "institution": "VIT Bhopal University",
-  "discipline": "Computer Science & Engineering (Specialization in AI & ML)",
-  "core_philosophy": "Learn consistently. Build things that work. Improve what you ship.",
-  "active_pursuits": [
-    "Practical full-stack & mobile application engineering",
-    "Applied Machine Learning pipelines & explainable predictive models",
-    "Data Structures & Algorithms in Java / C++",
-    "Clean architecture & reliable relational database design"
-  ]
-}
-EOF
-```
+I am an undergraduate student who approaches software engineering from first principles — writing functional code, testing real datasets, and developing practical software for everyday utility.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Primary Technical Focus
-- 🚀 **Applied Machine Learning:** Developing predictive models with Scikit-learn, explainability via SHAP, and statistical risk simulation.
-- 📱 **Mobile & Android Systems:** Native Android development with Kotlin & Android Studio, focusing on clean UI and offline capability.
-- 🧱 **System Foundations:** Strong fundamentals in Object-Oriented Programming, clean code principles, and efficient algorithms.
+### 🎯 Primary Technical Pursuits
+* 🚀 **Applied Machine Learning:** Developing predictive models with Scikit-learn, inspecting feature attribution via SHAP, and simulating residual risk.
+* 📱 **Android Development:** Building native mobile utilities with Kotlin and Android Studio with an offline-first mindset.
+* 🧱 **Core Foundations:** Practicing Object-Oriented Programming, clean application structure, and relational database design.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📍 Academic & Practice Snapshot
-- 🎓 **Education:** B.Tech CSE (AI & ML), Class of 2028 (VIT Bhopal)
-- 💡 **Learning Mode:** Project-driven implementation — bridging theory with working prototypes.
-- 🧩 **DSA Rigor:** Active problem solving on LeetCode tracking patterns across dynamic programming, trees, and graphs.
-- 🛠️ **Workflow:** Git version control, modular codebases, and readable documentation.
+* 🎓 **Education:** B.Tech in Computer Science & Engineering (Specialization in AI & ML), 2nd Year, VIT Bhopal University.
+* 🧩 **DSA Rigor:** Continuous problem solving on LeetCode covering dynamic programming, graph algorithms, and data structures in Java & C++.
+* 🛠️ **Workflow:** Git version control, modular code organization, and documented workflows.
 
 </td>
 </tr>
@@ -84,16 +56,12 @@ EOF
 
 <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
-<!-- ========================================== -->
-<!-- LANGUAGES & TECHNOLOGIES                   -->
-<!-- ========================================== -->
-
-## 🧰 `system.stack.inventory`
+## 🧰 Languages & Technologies
 
 <div align="center">
 
 ### Core Programming Languages
-<a href="https://skillicons.dev">
+<a href="https://github.com/bakaprince">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,c&theme=dark" alt="Programming Languages" />
 </a>
 
@@ -110,21 +78,21 @@ EOF
 </p>
 
 ### Android & Application Development
-<a href="https://skillicons.dev">
+<a href="https://github.com/bakaprince">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&theme=dark" alt="Android Dev" />
 </a>
 
 <br/>
 
 ### Databases & Cloud Backend
-<a href="https://skillicons.dev">
+<a href="https://github.com/bakaprince">
   <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=dark" alt="Databases and Cloud" />
 </a>
 
 <br/>
 
-### Developer Workflow & Environments
-<a href="https://skillicons.dev">
+### Developer Workflow & Tools
+<a href="https://github.com/bakaprince">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark" alt="Dev Tools" />
 </a>
 
@@ -132,42 +100,38 @@ EOF
 
 <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
-<!-- ========================================== -->
-<!-- CORE COMPETENCIES                          -->
-<!-- ========================================== -->
-
-## 💎 `system.core_competencies`
+## 💎 Core Competencies
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
 #### 01 / Predictive Modeling
-* End-to-end ML workflows
 * Supervised learning pipelines
 * Feature preprocessing & normalization
-* Residual & error analysis ($R^2$, MAE, RMSE)
-* Model explainability via SHAP
+* Model evaluation ($R^2$, MAE, RMSE)
+* Feature attribution with SHAP
+* Monte Carlo risk simulation
 
 </td>
 <td width="33%" valign="top">
 
-#### 02 / Application Engineering
-* Native Android companion apps
-* Clean decoupled component design
-* State & event handling
-* REST API & Backend synchronization
-* Intuitive, responsive user flows
+#### 02 / Mobile Engineering
+* Native Android applications (Kotlin/Java)
+* Clean component separation
+* Activity lifecycles & local storage
+* REST API & cloud integration
+* Lightweight, responsive UI
 
 </td>
 <td width="33%" valign="top">
 
 #### 03 / Data & Algorithms
-* Relational schema design (MySQL)
-* Data integrity & normalization
-* LeetCode algorithmic pattern practice
-* Time & space complexity optimization
-* Clean OOP principles
+* Relational database design (MySQL)
+* Schema normalization & queries
+* Algorithmic pattern practice (LeetCode)
+* Space and time complexity optimization
+* Object-Oriented principles
 
 </td>
 </tr>
@@ -175,11 +139,7 @@ EOF
 
 <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
-<!-- ========================================== -->
-<!-- FEATURED ENGINEERING PROJECTS              -->
-<!-- ========================================== -->
-
-## 🚀 `projects.featured_engineering`
+## 🚀 Featured Engineering Projects
 
 ### 01 — VITBIT • Android Academic Companion
 > **Targeted Android application engineered to organize student schedules, attendance metrics, and campus academic utilities into an offline-first experience.**
@@ -188,12 +148,12 @@ EOF
 Status: Stable Release Available     Platform: Android (Kotlin / Java)     Architecture: Native Mobile
 ```
 
-* **The Problem:** Fragmented university portals make tracking daily lecture schedules, attendance thresholds, and course syllabi cumbersome for university students on mobile devices.
+* **The Problem:** University academic portals are often cumbersome to navigate on mobile devices, making daily lecture schedules and attendance tracking stressful for students between classes.
 * **Implemented Features:**
-  * Fast, responsive timetable tracking tailored to campus slot patterns.
-  * Attendance monitoring with safe-margin calculations to maintain required academic percentages.
-  * Modular design focused on low latency, lightweight APK size, and reliable offline access.
-* **Verified Stack:** `Kotlin` `Android Studio` `Java` `Android SDK`
+  * Fast timetable view structured around campus slot patterns.
+  * Attendance monitoring with percentage calculations to stay above required thresholds.
+  * Lightweight, offline-capable architecture designed for instant launch and low memory overhead.
+* **Verified Technologies:** `Kotlin` `Android Studio` `Java` `Android SDK`
 * **Links:**
   * 📦 [**vitbit-stable Repository**](https://github.com/bakaprince/vitbit-stable)
   * 🔖 [**Releases & Builds**](https://github.com/bakaprince/vitbit-stable/releases)
@@ -201,37 +161,37 @@ Status: Stable Release Available     Platform: Android (Kotlin / Java)     Archi
 ---
 
 ### 02 — CashFlowAI • Financial Analytics & Decision Engine
-> **Intelligent cash flow forecasting and risk decision support system combining supervised regression, explainable AI, what-if perturbation, and Monte Carlo probability modeling.**
+> **Intelligent cash flow forecasting and risk decision platform combining supervised regression, explainable AI, what-if perturbation, and Monte Carlo probability modeling.**
 
 ```
 Status: Implemented & Verified       Stack: Python / Scikit-learn / Streamlit     Domain: Financial ML & XAI
 ```
 
-* **The Problem:** Small businesses and financial teams frequently rely on static backward-looking spreadsheets, failing to quantify forward risk distributions or understand which operational levers drive liquidity shortfalls.
+* **The Problem:** Financial teams frequently rely on static historical spreadsheets without the ability to simulate downside risk distributions or identify which operational levers drive liquidity shortfalls.
 * **Implemented Features:**
-  * **Automated Data Pipeline:** Ingestion of raw transactional datasets with regex cleaning, currency stripping, and median imputation.
+  * **Automated Data Pipeline:** Ingestion of raw transactional records with regex cleaning, currency stripping, and median missing-value imputation.
   * **ML Cash Flow Forecasting:** Multiple linear regression with comprehensive statistical evaluation (MAE, RMSE, $R^2$).
-  * **Explainable AI (SHAP):** Feature attribution isolating directional impacts driving positive or negative liquidity changes.
-  * **Scenario Simulation & Monte Carlo:** 2,000-iteration residual perturbation determining exact empirical probability of breaching user safety buffers (P10 downside vs P90 upside).
-* **Verified Stack:** `Python` `Scikit-learn` `SHAP` `Plotly` `Streamlit` `NumPy` `Pandas`
+  * **Explainable AI (SHAP):** Feature attribution isolating directional factors behind liquidity projections.
+  * **Scenario Simulation & Monte Carlo:** 2,000-iteration residual perturbation determining the exact empirical probability of breaching user safety buffers (P10 downside vs P90 upside).
+* **Verified Technologies:** `Python` `Scikit-learn` `SHAP` `Plotly` `Streamlit` `NumPy` `Pandas`
 * **Links:**
   * 💻 [**CashFlowAI Repository**](https://github.com/bakaprince/CashFlowAI)
 
 ---
 
 ### 03 — SwasthyaSetu • Digital Healthcare Platform
-> **Comprehensive full-stack digital health system designed to streamline patient-provider interaction, medical records, and digital consultation workflows.**
+> **Full-stack digital healthcare system designed to streamline patient-provider interaction, medical records, and digital consultation workflows.**
 
 ```
 Status: Deployed & Live              Stack: Web Full-Stack / Cloud Architecture   Domain: Digital Health
 ```
 
-* **The Problem:** Healthcare management across clinics remains fragmented, with disjointed appointments, inaccessible diagnostic records, and inefficient consultation triage.
+* **The Problem:** Healthcare management across clinics remains fragmented, with disjointed appointments, inaccessible diagnostic histories, and inefficient patient triage.
 * **Implemented Features:**
-  * Role-based interfaces connecting patients and healthcare professionals.
-  * Appointment scheduling, medical record tracking, and consolidated digital care journeys.
-  * Cloud-deployed architecture tuned for responsive access across mobile and desktop browsers.
-* **Verified Stack:** `JavaScript` `React / Web Frontend` `Cloud Backend` `Vercel`
+  * Role-based interfaces connecting patients and healthcare providers.
+  * Appointment scheduling, record management, and consolidated care workflows.
+  * Cloud-deployed architecture providing responsive access across mobile and desktop browsers.
+* **Verified Technologies:** `JavaScript` `React / Web Frontend` `Cloud Backend` `Vercel`
 * **Links:**
   * 🌐 [**Live Application Demo**](https://swasthya-setu-drcode.vercel.app/)
   * 💻 [**SwasthyaSetu Repository**](https://github.com/bakaprince/SwasthyaSetu)
@@ -245,23 +205,19 @@ Status: Deployed & Live              Stack: Web Full-Stack / Cloud Architecture 
 Status: Live Prototype               Deployment: Netlify                          Domain: AgriTech Solutions
 ```
 
-* **The Problem:** Information asymmetry in farming leads to unoptimized crop yields, lack of direct pricing transparency, and delayed access to modern advisories.
+* **The Problem:** Information gaps in farming lead to sub-optimal crop selection, lack of direct pricing transparency, and delayed access to modern advisories.
 * **Implemented Features:**
   * Clean, accessible UI tailored for agricultural decision support.
   * Dedicated crop advisory tools and market insights.
-  * Transparent information routing designed to support farmer livelihoods.
-* **Verified Stack:** `Web Technologies` `HTML / CSS / JS` `Netlify Hosting`
+  * Transparent information routing designed to support farmer decision-making.
+* **Verified Technologies:** `Web Technologies` `HTML / CSS / JS` `Netlify Hosting`
 * **Links:**
   * 🌐 [**Live Demo Deployment**](https://agrisure-f3.netlify.app/)
   * 💻 [**AgriSure Repository**](https://github.com/bakaprince/AgriSure)
 
 <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
-<!-- ========================================== -->
-<!-- MACHINE LEARNING & DSA LABS                -->
-<!-- ========================================== -->
-
-## 🔬 `projects.applied_ml_and_dsa`
+## 🔬 Machine Learning & DSA Projects
 
 <table width="100%">
 <tr>
@@ -304,11 +260,7 @@ Structured, continuous algorithm practice implementing optimal solutions in Java
 
 <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
-<!-- ========================================== -->
-<!-- GITHUB ACTIVITY & METRICS                  -->
-<!-- ========================================== -->
-
-## 📊 `system.activity_metrics`
+## 📊 Activity & Statistics
 
 <div align="center">
 
@@ -335,33 +287,21 @@ Structured, continuous algorithm practice implementing optimal solutions in Java
 
 <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
-<!-- ========================================== -->
-<!-- CURRENTLY EXPLORING & ROADMAP              -->
-<!-- ========================================== -->
+## 🛰️ Currently Exploring
 
-## 🛰️ `system.currently_exploring`
-
-```yaml
-in_flight:
-  specialization: "Applied Machine Learning & Distributed Model Serving"
-  algorithms: "Advancing graph traversal & dynamic programming in C++ / Java"
-  android: "Jetpack Compose & modern reactive Android architectures"
-  databases: "Deep-dive into query optimization & relational indexing (MySQL)"
-current_status: "Actively writing code, shipping projects, and open to collaborative learning"
-```
+* **Applied Machine Learning:** Advancing from local models to production deployment, inference pipelines, and model evaluation.
+* **Algorithms & Problem Solving:** Deepening knowledge of graph traversal, dynamic programming, and competitive problem solving in Java / C++.
+* **Android Architecture:** Exploring Jetpack Compose and modern reactive patterns for mobile systems.
+* **Databases:** Relational schema design, query optimization, and transaction handling with MySQL.
 
 <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
-<!-- ========================================== -->
-<!-- CONNECT WITH ME                            -->
-<!-- ========================================== -->
-
-## 🌐 `system.connect_with_me`
+## 🌐 Connect With Me
 
 <div align="center">
 
 <p>
-  Feel free to explore my repositories, test live demonstrations, or collaborate on engineering projects!
+  Feel free to explore my repositories, test live demonstrations, or connect to discuss engineering projects!
 </p>
 
 <p align="center">
@@ -378,6 +318,6 @@ current_status: "Actively writing code, shipping projects, and open to collabora
 
 <br/>
 
-<sub>Crafted with engineering precision • Powered by GitHub Markdown</sub>
+<sub>Crafted with engineering precision • Sudeep Kushwaha (@bakaprince)</sub>
 
 </div>
